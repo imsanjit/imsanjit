@@ -15,7 +15,7 @@
 
 
 
-<hr>
+## Github Details
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imsanjit&show_icons=true&locale=en" alt="imsanjit" /></p>
 
