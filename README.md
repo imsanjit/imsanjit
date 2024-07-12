@@ -1,8 +1,8 @@
 
 # Hi, I am Sanjit! 👋
 
-- Currently working as Analyst in Bangalore.
-- Interested in Data Analysis, Data Science, Customers Experiences, Marketing
+- Currently working as an Analyst in Bangalore.
+- Interested in Data Analysis, Data Science, customer experiences, Marketing
 - All of my projects are available at https://github.com/imsanjit
 - Reach me at myselfsanjit@gmail.com
 
